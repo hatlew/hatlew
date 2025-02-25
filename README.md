@@ -1,4 +1,8 @@
-Hatlew. Based in London. Student at King's College. I'm passionate about Cybersecurity and Penetration Testing. I love exploring the intricacies of network security, ethical hacking, and building tools that contribute to safer digital environments. What I'm Working On - Developing skills in penetration testing and vulnerability assessment. Learning how to ethically exploit and secure systems. Building tools in Python for network scanning, security analysis, and red teaming
+Hatlew. 
+Based in London.
+Student at King's College.
+ 
+I'm passionate about Cybersecurity and Penetration Testing. I love exploring the intricacies of network security, ethical hacking, and building tools that contribute to safer digital environments. What I'm Working On - Developing skills in penetration testing and vulnerability assessment. Learning how to ethically exploit and secure systems. Building tools in Python for network scanning, security analysis, and red teaming
 
 ### Skills
 
